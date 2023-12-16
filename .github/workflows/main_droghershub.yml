@@ -63,4 +63,4 @@ jobs:
           app-name: 'droghershub'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_691CAA9F26714059A4E508B9D2B6C052 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F44CA4AB6BAF48BCA35C4B53B194DC43 }}
